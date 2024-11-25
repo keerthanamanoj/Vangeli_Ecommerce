@@ -7,7 +7,7 @@ https://vangeli.com.au/
   2. Home & Cart
   3. Testimonials and About Us
 - Prepared Bug Report
-- Defect Distribution Graph
-- Test Report
+- Prepared Defect Distribution Graph
+- Prepared Test Report
 
 
