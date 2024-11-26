@@ -1,5 +1,6 @@
 # Project Title
 https://vangeli.com.au/
+Vangeli.com is an e-commerce website that focuses on selling Jewellery.
 Drive Link: https://docs.google.com/spreadsheets/d/1jYoqP22HIJkribLz7ckDPLNlWXLFyaiXIKrPVsJvqGI/edit?usp=sharing
 
 ## Features
